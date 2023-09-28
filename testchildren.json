@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "alias": "archaea01",
+      "hint": "Single-celled organisms",
+      "value": "Archaea",
+      "children": [
+        {
+          "alias": "archaea01_a",
+          "value": "Bacteria",
+        },
+        {
+          "alias": "archaea01_b",
+          "value": "Eukarya",
+          "children": [
+            {
+              "alias": "archaea01_b1",
+              "value": "Human"
+            }
+            {
+              "alias": "archaea01_b2",
+              "value": "Oppossum"
+            }
+            {
+              "alias": "archaea01_b2",
+              "value": "Extraterrestrial"
+            }
+          ]
+        },
+      ]
+    }
+  ]
+}
