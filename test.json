@@ -1,11 +1,9 @@
 {
     "items": [
       {
-        "alias": "AN",
         "value": "Antarctica",
         "children": [
           {
-            "alias": "AQ",
             "value": "Antarctica",
             "children": [
               {
@@ -14,7 +12,6 @@
             ]
           },
           {
-            "alias": "GS",
             "value": "South Georgia and the South Sandwich Islands",
             "children": [
               {
@@ -23,7 +20,6 @@
             ]
           },
           {
-            "alias": "TF",
             "value": "French Southern Territories",
             "children": [
               {
