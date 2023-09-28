@@ -4,12 +4,12 @@
       "alias": "archaea01",
       "hint": "Single-celled organisms",
       "value": "Archaea",
-    }
+    },
     {
       "alias": "bacteria01",
       "hint": "Prokaryotic microorganisms",
       "value": "Bacteria",
-    }
+    },
     {
       "alias": "eukarya01",
       "hint": "Basically everything else",
@@ -18,15 +18,15 @@
             {
               "alias": "eukarya01_b1",
               "value": "Human"
-            }
+            },
             {
               "alias": "eukarya01_b2",
               "value": "Oppossum"
-            }
+            },
             {
               "alias": "eukarya01_b2",
               "value": "Extraterrestrial"
-            }
+            },
           ]
     },
   ]
