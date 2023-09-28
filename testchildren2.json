@@ -4,30 +4,30 @@
       "alias": "archaea01",
       "hint": "Single-celled organisms",
       "value": "Archaea",
+    }
+    {
+      "alias": "bacteria01",
+      "hint": "Prokaryotic microorganisms",
+      "value": "Bacteria",
+    }
+    {
+      "alias": "eukarya01",
+      "hint": "Basically everything else",
+      "value": "Eukarya",
       "children": [
-        {
-          "alias": "archaea01_a",
-          "value": "Bacteria",
-        },
-        {
-          "alias": "archaea01_b",
-          "value": "Eukarya",
-          "children": [
             {
-              "alias": "archaea01_b1",
+              "alias": "eukarya01_b1",
               "value": "Human"
             }
             {
-              "alias": "archaea01_b2",
+              "alias": "eukarya01_b2",
               "value": "Oppossum"
             }
             {
-              "alias": "archaea01_b2",
+              "alias": "eukarya01_b2",
               "value": "Extraterrestrial"
             }
           ]
-        },
-      ]
-    }
+    },
   ]
 }
