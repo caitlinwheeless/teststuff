@@ -1,0 +1,37 @@
+{
+    "items": [
+      {
+        "alias": "AN",
+        "value": "Antarctica",
+        "children": [
+          {
+            "alias": "AQ",
+            "value": "Antarctica",
+            "children": [
+              {
+                "value": "McMurdo Station"
+              }
+            ]
+          },
+          {
+            "alias": "GS",
+            "value": "South Georgia and the South Sandwich Islands",
+            "children": [
+              {
+                "value": "Grytviken"
+              }
+            ]
+          },
+          {
+            "alias": "TF",
+            "value": "French Southern Territories",
+            "children": [
+              {
+                "value": "Port-aux-Français"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
