@@ -15,7 +15,8 @@
             "value": "South Georgia and the South Sandwich Islands",
             "children": [
               {
-                "value": "Grytviken"
+                "value": "Grytviken", 
+                "color": "pink"
               }
             ]
           },
@@ -23,7 +24,8 @@
             "value": "French Southern Territories",
             "children": [
               {
-                "value": "Port-aux-Français"
+                "value": "Port-aux-Français",
+                "hint": "Where is this?"
               }
             ]
           }
