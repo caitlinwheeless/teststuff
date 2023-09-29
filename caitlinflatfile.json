@@ -1,21 +1,20 @@
 {
     "items": [
         {
-            "alias": "archaea01",
+            "alias": "01",
             "hint": "Single-celled organisms",
             "value": "Archaea"
         },
         {
-            "alias": "bacteria01",
+            "alias": "02",
             "hint": "Prokaryotic microorganisms",
             "value": "Bacteria"
         },
         {
-            "alias": "eukarya01",
+            "alias": "03",
             "hint": "Basically everything else",
             "value": "Eukarya",
-            "isLeaf": false,
-            [
+            "children": [
                 {
                     "alias": "eukarya01_b1",
                     "value": "Human"
@@ -26,7 +25,15 @@
                 },
                 {
                     "alias": "eukarya01_b3",
-                    "value": "Extraterrestrial"
+                    "value": "Extraterrestrial",
+                    "children": [
+                        {
+                            "value": "Little green men"
+                        },
+                        {
+                            "value": "Tentacle monster"
+                        }
+                    ]     
                 }
             ]
         }
