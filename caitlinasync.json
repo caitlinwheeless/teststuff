@@ -15,7 +15,7 @@
             "hint": "Basically everything else",
             "value": "Eukarya",
             "isLeaf": false,
-            "children": [
+            "items": [
                 {
                     "alias": "eukarya01_b1",
                     "value": "Human"
